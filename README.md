@@ -40,11 +40,6 @@ Ping Pong/
 
 ---
 
-## 📸 Preview
-*(Insert a screenshot of gameplay here if available)*
-
----
-
 ## 📜 License
 This project is open-source and free to use under the **MIT License**.
 
